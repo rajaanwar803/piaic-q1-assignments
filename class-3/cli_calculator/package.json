@@ -1,0 +1,16 @@
+{
+  "name": "cli_calculator",
+  "version": "1.0.0",
+  "description": "Coded a CLI calculator in TS.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.5",
+    "prompt-sync": "^4.2.0"
+  }
+}
